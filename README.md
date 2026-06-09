@@ -11,18 +11,18 @@ The goal is to identify high-value customer segments and provide data-driven rec
 * **Environment:** Jupyter Notebooks
 
 ---
-## 🎥 Dashboard Demo
+## 🎥 Dashboard 
 
-![Dashboard Demo](images/dashboard_demo.gif)
+![Dashboard Demo](images/dashboard_demo.png)
 
 
 ## 📊 Dashboard & Analysis Preview
 
 ### Customer Age Distribution
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](images/age_distribution.jpg)
 
 ### Wealth Segmentation by Age Group
-![Wealth Segmentation](images/wealth_segmentation.png)
+![Wealth Segmentation](images/wealth_segmentation.jpg)
 
 ### Car Ownership by State
 ![Car Ownership](images/car_ownership.png)
