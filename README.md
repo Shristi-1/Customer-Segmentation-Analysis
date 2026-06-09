@@ -11,15 +11,24 @@ The goal is to identify high-value customer segments and provide data-driven rec
 * **Environment:** Jupyter Notebooks
 
 ---
+## 🎥 Dashboard Demo
 
-## 📊 Key Deliverables
-* **Interactive Dashboard:** [View Tableau Sales Dashboard](YOUR_TABLEAU_DASHBOARD_LINK)
-* **Code & Analysis (nbviewer):**
-    * [Data Cleaning: Customer Demographic](YOUR_NBVIEWER_LINK)
-    * [Data Cleaning: New Customer List](YOUR_NBVIEWER_LINK)
-    * [Data Cleaning: Transactions](YOUR_NBVIEWER_LINK)
-    * [Data Cleaning: Customer Address](YOUR_NBVIEWER_LINK)
-    * [RFM Analysis & Modeling](YOUR_NBVIEWER_LINK)
+![Dashboard Demo](images/dashboard_demo.gif)
+
+
+## 📊 Dashboard & Analysis Preview
+
+### Customer Age Distribution
+![Age Distribution](images/age_distribution.png)
+
+### Wealth Segmentation by Age Group
+![Wealth Segmentation](images/wealth_segmentation.png)
+
+### Car Ownership by State
+![Car Ownership](images/car_ownership.png)
+
+### Bike Purchases by Gender
+![Gender Analysis](images/gender_analysis.png)
 
 ---
 
