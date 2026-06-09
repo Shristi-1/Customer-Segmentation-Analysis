@@ -25,10 +25,10 @@ The goal is to identify high-value customer segments and provide data-driven rec
 ![Wealth Segmentation](images/wealth_segmentation.jpg)
 
 ### Car Ownership by State
-![Car Ownership](images/car_ownership.png)
+![Car Ownership](images/car_ownership.PNG)
 
 ### Bike Purchases by Gender
-![Gender Analysis](images/gender_analysis.png)
+![Gender Analysis](images/gender_analysis.PNG)
 
 ---
 
